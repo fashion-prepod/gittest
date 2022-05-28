@@ -5,8 +5,85 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <style>
+    *{
+        margin: 0;
+        padding: 0;
+        box-sizing: border-box;
+    }
+    body{
+        padding: 0;
+        margin: 0;
+    }
+        .PROGRESSUS{
+            width: 100%;
+            margin: 0 auto;
+            height: 100vh;
+            background-image: url("img/bg_header.jpg");
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+        nav{
+            margin: 0 auto;
+            width: 95%;
+            padding: 10px;
+            background-color: brown;
+            margin-bottom: 3rem;
+        }
+        ul{
+            display: flex;
+            justify-content: space-around;
+            align-items: center;
+            list-style: none;
+            padding: 0;
+        }
+        a{
+            text-decoration: none;
+            color: antiquewhite;
+        }
+        .btns{
+            margin: 3rem auto;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+             margin-bottom: 3rem;
+        }
+        button{
+            width: 340px;
+            height: 70px;
+            margin-right: 10px;
+            font-size: 26px;
+            color: wheat;
+            background-color: rgb(39, 39, 33);
+        }
+        p, h1{
+            font-family: 'Courier New', Courier, monospace;
+            font-size: 30px;
+            text-align: center;
+            color: aliceblue;
+        }
+
+    </style>
 </head>
 <body>
-    
+    <div class="PROGRESSUS">
+        <nav>
+        <ul>
+            <li><a href="#">PROGRESSUS</a></li>
+            <li><a href="#">About</a></li>
+            <li><a href="#">Contacts</a></li>
+            <li><a href="#">Documents</a></li>
+            <li><a href="#">Help</a></li>
+            <li><a href="#">Comments</a></li>
+        </ul>
+        </nav>
+        <h1>PROGRESSUS</h1>
+        <h2>Progr</h2>
+        <p>Progressus is a free, responsive, nice-looking business template based on Bootstrap HTML/CSS framework. 7 ready-made templates for most common tasks, trendy, responsive design and exceptional overall quality - everything will work for you and your business.</p>
+        <div class="btns">
+            <button>View demo</button>
+            <button>open</button>
+        </div>
+    </div>
 </body>
 </html>
