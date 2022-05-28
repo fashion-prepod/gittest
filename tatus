@@ -1,0 +1,80 @@
+[33mcommit 5d0545315bd8537d2c43b698455ee61e7cbe588f[m[33m ([m[1;36mHEAD -> [m[1;32mmagister[m[33m, [m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Web <web@it.step>
+Date:   Sat May 28 20:33:14 2022 +0300
+
+    reverted to init
+
+[33mcommit 3db3386363a9e6ab560e5eae11b88f6209880d83[m[33m ([m[1;31morigin/br[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mbr[m[33m)[m
+Merge: a890f7a 1599d26
+Author: Web <web@it.step>
+Date:   Sat May 28 19:49:57 2022 +0300
+
+    resolved conflicts with index.html
+
+[33mcommit a890f7ae47b439222fa5b5e8e879753a9f9bd37e[m
+Author: Web <web@it.step>
+Date:   Sat May 28 19:43:14 2022 +0300
+
+    options
+
+[33mcommit 1599d2678e04cacbdd4bcba41c9f2f86faacaded[m
+Author: Web <web@it.step>
+Date:   Sat May 28 19:42:27 2022 +0300
+
+    master3
+
+[33mcommit 0929979e2bd68f31b209ce1b2918095c1b082929[m
+Author: Web <web@it.step>
+Date:   Sat May 28 19:40:24 2022 +0300
+
+    select
+
+[33mcommit d78f4b997053e6fb571eebf5b903cccb31bafa89[m
+Merge: dfe0d4d de57d72
+Author: Web <web@it.step>
+Date:   Sat May 28 19:37:23 2022 +0300
+
+    Merge branch 'master' into test
+
+[33mcommit dfe0d4d9c9464affb1ab7f18ca208e982e37a866[m
+Author: Web <web@it.step>
+Date:   Sat May 28 19:35:50 2022 +0300
+
+    ru
+
+[33mcommit de57d729a1bf98fb54ef2689677ce30955191ca4[m
+Author: Web <web@it.step>
+Date:   Sat May 28 19:33:28 2022 +0300
+
+    master two
+
+[33mcommit ebbc7ebf79cb3e4ec1e46319ddc3cb885d9488ec[m
+Author: Web <web@it.step>
+Date:   Sat May 28 19:33:14 2022 +0300
+
+    master one
+
+[33mcommit 57421f04b4118a20326733f1d54a17affa613470[m
+Merge: bf55c35 263d6a6
+Author: Web <web@it.step>
+Date:   Sat May 28 19:24:50 2022 +0300
+
+    Merge branch 'test'
+
+[33mcommit bf55c3527c6043fee43423c2c54ee9ce73951faa[m
+Author: Web <web@it.step>
+Date:   Sat May 28 19:17:11 2022 +0300
+
+    added img
+
+[33mcommit 263d6a653eacc122d2be2daf841cc2c417955876[m
+Author: Web <web@it.step>
+Date:   Sat May 28 19:13:31 2022 +0300
+
+    added h1 test text
+
+[33mcommit 5c1c5be0007d6ed68c4b6840ee6efc35e7a6d6e0[m
+Author: Web <web@it.step>
+Date:   Sat May 28 19:11:11 2022 +0300
+
+    proj init
