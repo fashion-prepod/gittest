@@ -1,0 +1,43 @@
+*{
+box-sizing: border-box;
+padding: 0;
+margin: 0;
+}
+
+.gittemplate {
+display: flex;
+justify-content: 'center';
+align-items: center;
+padding: 30px auto;
+flex-direction: column;
+margin: 0 auto;
+background-color: #F0F0F0;
+}
+
+.h1 {
+font-weight: 100;
+font-size: 50px;
+margin-top: 100px;
+color: blue;
+font-variant: small-caps;
+}
+
+.text {
+margin-bottom: 50px;
+color: #B3B5BB;
+font-weight: 300;
+font-size: 20px;
+font-weight: 300;
+}
+
+.button {
+background-color: #00A1E4;
+color: white;
+border: none;
+padding: 15px 50px;
+margin-bottom: 100px;
+}
+
+.button:hover {
+background-color: #0373a3;
+}
